@@ -1,5 +1,3 @@
-
-
 ## A full website for Jaunty Jalopies dealership
 - Semester: Fall 2021<br>
 - Team: 20
