@@ -1,2 +1,0 @@
-all sql in main.py;
-schema in sql/team020_p2_schema.sql;
