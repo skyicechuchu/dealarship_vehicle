@@ -1,6 +1,4 @@
 ## A full website for Jaunty Jalopies dealership
-- Semester: Fall 2021<br>
-- Team: 20
 
 ## Application Components
 - this is a simple 2-tier application
