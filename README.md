@@ -1,4 +1,4 @@
-# CS 6400 Database Project Phase 3
+
 
 ## A full website for Jaunty Jalopies dealership
 - Semester: Fall 2021<br>
